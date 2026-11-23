@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+out/*
+!out/*_frozen.sha256
+!out/frozen_code.sha256

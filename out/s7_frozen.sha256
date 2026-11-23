@@ -1,0 +1,7 @@
+1a15f985155b58def58ddbbea0209c2415a2adc872ae58d178e8ab364411bd6b  experiments/prereg_s7.json
+52658b1b1c9a2e59575cea07d864596dcfec30e2855f7df708370bb8d4fb1ae6  trade/s7.py
+632986ae330aaf1e3d7c26705cf62a57f149f84ce3e6a6ace0a028baaec637a9  trade/vstar5.py
+b39b21e4419fd2d1a841ff618cc1165ded82288d1b86a35f5c484dca8029216f  experiments/s7_prof3.py
+0fd365d7a5be42de1bf93d63090d74ff2397ebb1e62953e81463ec5c15ed39cf  experiments/s7_check_prereg.py
+72b7685a6bcf818a5ddcd1bfffce6652bacfa7f2648facf6a392515e0d068ff6  tests/test_s7.py
+# 凍結 2026-11-11T06:18:24Z（確かめ用 cseed 500〜599 の走行の前）
